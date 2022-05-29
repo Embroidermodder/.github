@@ -1,0 +1,2 @@
+# .github
+The Embroidermodder Project
